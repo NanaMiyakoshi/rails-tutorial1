@@ -171,7 +171,11 @@ GEM
     turbolinks (5.2.1)
       turbolinks-source (~> 5.2)
     turbolinks-source (5.2.0)
+<<<<<<< HEAD
     tzinfo (1.2.6)
+=======
+    tzinfo (1.2.7)
+>>>>>>> be6fdcb3bb6ec2c5ba7bad1207fa96731b7c57d0
       thread_safe (~> 0.1)
     uglifier (4.2.0)
       execjs (>= 0.3.0, < 3)
