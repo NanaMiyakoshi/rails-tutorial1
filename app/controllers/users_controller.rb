@@ -4,6 +4,7 @@ class UsersController < ApplicationController
   # GET /users
   # GET /users.json
   def index
+    #変数@usersに、Userモデルからユーザー一覧を取り出して保存
     @users = User.all
   end
 
